@@ -14,6 +14,6 @@
   <a href="https://www.twitch.tv/bb_chan_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
 
 </div>
-<div>
-    ![Snake animation](https://github.com/bncblnc/bncblnc/blob/output/github-contribution-grid-snake.svg)
-    </div>
+
+![Snake animation](https://github.com/bncblnc/bncblnc/blob/output/github-contribution-grid-snake.svg)
+
