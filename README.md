@@ -8,5 +8,5 @@
   </div>
   <br/>
 
-
+![Snake animation](https://github.com/bncblnc/bncblnc/blob/output/github-contribution-grid-snake.svg)
 <br/>
